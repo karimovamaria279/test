@@ -1,0 +1,13 @@
+body{
+    background: url(../img/fon1.jpg) lightgray repeat-x bottom;    
+}
+.bold{
+    font-weight: bold;
+}
+ul{
+    list-style-type: lower-roman;    
+}
+.color{
+    color:darkslateblue;
+    font-size:2rem
+}
